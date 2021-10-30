@@ -1,0 +1,25 @@
+body {
+  width: 75%;
+  margin: 0 auto;
+  background-color: #f5f5dc;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1{
+	margin: 0;
+	padding: 20px 0;
+	text-shadow: 3px 3px 1px grey;
+}
+
+ul li{
+	list-style: square; 
+	margin-top: 1.0%;
+}
+
+img {
+	width: 100px;
+	height: 150px;
+	direction: block;
+	margin: 0 auto;
+}
